@@ -9,6 +9,3 @@ __Hello there.__ I am quite tired, but the excercise DL is today, so I guess I h
 
 __Here is my GitHub respitory__
 [link](https://github.com/YanWang01/Yaner)
-
-git config --global user.email "wangyan@hotmail.fi"
-  git config --global user.name "Yan Wang"
