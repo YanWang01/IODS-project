@@ -2,3 +2,13 @@
 # About the project
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*
+
+# First excercise
+
+__Hello there.__ I am quite tired, but the excercise DL is today, so I guess I have to do it now. I expect to learn some coding as I have already started. I hope it is not too difficult for me. I heared this course from our University, but do not remember exactly where. 
+
+__Here is my GitHub respitory__
+[link](https://github.com/YanWang01/Yaner)
+
+git config --global user.email "wangyan@hotmail.fi"
+  git config --global user.name "Yan Wang"
